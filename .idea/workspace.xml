@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a009991-9eb4-4bd1-9d80-019f17aed212" name="Changes" comment="Basic code" />
+    <list default="true" id="6a009991-9eb4-4bd1-9d80-019f17aed212" name="Changes" comment="Git ignore added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Palindrome.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +52,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codes\Python-Learning" />
       <recent name="D:\Codes\Python-Learning\Basic" />
     </key>
   </component>
@@ -151,11 +155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743613929005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Git ignore added">
+      <option name="closed" value="true" />
+      <created>1743614244307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743614244307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic code" />
+    <MESSAGE value="Git ignore added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git ignore added" />
   </component>
 </project>
